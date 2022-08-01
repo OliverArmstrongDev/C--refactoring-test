@@ -1,0 +1,87 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RefactorMe.DontRefactor/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/RefactorMe.DontRefactor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RefactorMe.DontRefactor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RefactorMe.DontRefactor/1.0.0": {
+      "type": "project",
+      "path": "../RefactorMe.DontRefactor/RefactorMe.DontRefactor.csproj",
+      "msbuildProject": "../RefactorMe.DontRefactor/RefactorMe.DontRefactor.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "RefactorMe.DontRefactor >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ollie/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/RefactorMe.csproj",
+      "projectName": "RefactorMe",
+      "projectPath": "/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/RefactorMe.csproj",
+      "packagesPath": "/Users/ollie/.nuget/packages/",
+      "outputPath": "/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ollie/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe.DontRefactor/RefactorMe.DontRefactor.csproj": {
+              "projectPath": "/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe.DontRefactor/RefactorMe.DontRefactor.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.421/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

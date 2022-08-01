@@ -1,0 +1,15 @@
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/bin/Debug/netcoreapp3.1/RefactorMe.deps.json
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/bin/Debug/netcoreapp3.1/RefactorMe.runtimeconfig.json
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/bin/Debug/netcoreapp3.1/RefactorMe.runtimeconfig.dev.json
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/bin/Debug/netcoreapp3.1/RefactorMe.dll
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/bin/Debug/netcoreapp3.1/RefactorMe.pdb
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/bin/Debug/netcoreapp3.1/RefactorMe.DontRefactor.dll
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/bin/Debug/netcoreapp3.1/RefactorMe.DontRefactor.pdb
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/obj/Debug/netcoreapp3.1/RefactorMe.csproj.AssemblyReference.cache
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/obj/Debug/netcoreapp3.1/RefactorMe.AssemblyInfoInputs.cache
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/obj/Debug/netcoreapp3.1/RefactorMe.AssemblyInfo.cs
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/obj/Debug/netcoreapp3.1/RefactorMe.csproj.CoreCompileInputs.cache
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/obj/Debug/netcoreapp3.1/RefactorMe.csproj.CopyComplete
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/obj/Debug/netcoreapp3.1/RefactorMe.dll
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/obj/Debug/netcoreapp3.1/RefactorMe.pdb
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe/obj/Debug/netcoreapp3.1/RefactorMe.genruntimeconfig.cache

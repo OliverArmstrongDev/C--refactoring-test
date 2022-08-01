@@ -1,0 +1,12 @@
+/Users/ollie/Downloads/RefactorMe 2/C#/RefactorMe.DontRefactor/bin/Debug/RefactorMe.DontRefactor.dll
+/Users/ollie/Downloads/RefactorMe 2/C#/RefactorMe.DontRefactor/bin/Debug/RefactorMe.DontRefactor.pdb
+/Users/ollie/Downloads/RefactorMe 2/C#/RefactorMe.DontRefactor/obj/Debug/RefactorMe.DontRefactor.csproj.AssemblyReference.cache
+/Users/ollie/Downloads/RefactorMe 2/C#/RefactorMe.DontRefactor/obj/Debug/RefactorMe.DontRefactor.csproj.CoreCompileInputs.cache
+/Users/ollie/Downloads/RefactorMe 2/C#/RefactorMe.DontRefactor/obj/Debug/RefactorMe.DontRefactor.dll
+/Users/ollie/Downloads/RefactorMe 2/C#/RefactorMe.DontRefactor/obj/Debug/RefactorMe.DontRefactor.pdb
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe.DontRefactor/bin/Debug/RefactorMe.DontRefactor.dll
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe.DontRefactor/bin/Debug/RefactorMe.DontRefactor.pdb
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe.DontRefactor/obj/Debug/RefactorMe.DontRefactor.csproj.CoreCompileInputs.cache
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe.DontRefactor/obj/Debug/RefactorMe.DontRefactor.dll
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe.DontRefactor/obj/Debug/RefactorMe.DontRefactor.pdb
+/Users/ollie/Documents/WebDev/C#/Training/RefactorMe/RefactorMe.DontRefactor/obj/Debug/RefactorMe.DontRefactor.csproj.AssemblyReference.cache
